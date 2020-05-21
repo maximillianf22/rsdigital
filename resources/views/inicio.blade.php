@@ -50,6 +50,9 @@
                 <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Tarjetas</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
+                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Bolsas & Empaques</strong></a>
+              </li>
+              <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Volantes</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
@@ -122,16 +125,15 @@
       </div>
       </section>
        <section class="mt-2">
-        <div class="container-fluid " style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 40vh">
-            <div class="row">
+        <div class="container-fluid " style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
+            <div class="row ml-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
-              <h2 class="title text-center text-white text-uppercase mt-4" style="font-color: white; ">Compra online,<br>
-                Te lo llevamos <strong>Gratis</strong></h2>
-              <div class="info info-horizontal">
-                <div class="description pull-center text-center">
+              <h2 class="title text-center text-white text-uppercase mt-5" style="font-color: white; ">
+                <img src="{{asset('assets/img/theme/truck.png')}}" class="img-fluid" width="10%" height="10%"><br>
+                Compra online,<br>
+                Te lo llevamos <strong>Gratis</strong><br>
                   <img src="{{asset('assets/img/theme/text-div.png')}}" class="img-fluid" width="50%" height="50%">
-                </div>
-              </div>
+              </h2>
             </div>
             <div class="col-lg-5 col-md-7 mx-auto">
               
@@ -210,21 +212,17 @@
                       nuestras <strong>promociones y descuentos</strong></h4>
                   </div>
                     <form class="mt-4" method="" action="">
-                      <div class="row">
-                        <div class="col-sm-8">
-                          <div class="form-group">
-                            <div class="input-group input-group-alternative mb-4">
-                              <div class="input-group-prepend">
-                                <span class="input-group-text"><i class="ni ni-email-83"></i></span>
-                              </div>
-                              <input class="form-control" placeholder="Correo electronico" type="text">
+                      <div class="rounded text-nowrap input-group">
+                        <div class="input-group input-group-alternative mb-4">
+                            <div class="input-group-prepend">
+                              <span class="input-group-text"><i class="ni ni-email-83"></i></span>
                             </div>
-                          </div>
+                            <input class="form-control" placeholder="Correo electronico" type="text">
+                            <div class="input-group-append">
+                                <button class="btn btn-danger" type="button">Suscríbete</button>
+                            </div>
                         </div>
-                        <div class="col-sm-4">
-                          <button type="de intel" class="btn btn-danger btn-block">Suscríbete</button>
-                        </div>
-                      </div>
+                    </div>
                     </form>
                 </div>
                 <div class="col-md-3 col-1"></div>
