@@ -119,7 +119,7 @@
         </div>
       </section>
       <!--     *********   div-1  -->
-      <section>
+      <section class="d-none d-sm-none d-md-block d-lg-block">
         <div class="container-fluid mx-auto p-0 m-0">
         <img src="{{asset('assets/img/theme/div1.jpg')}}" class="img-fluid">
       </div>
