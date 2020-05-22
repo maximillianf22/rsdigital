@@ -85,8 +85,8 @@
               </div>
               <div class="col-lg-4 col-4">
                 <div class="custom-control custom-checkbox mb-3">
-                  <input class="custom-control-input " id="customCheck2" type="checkbox">
-                  <label class="custom-control-label" for="customCheck2"><img src="{{asset('assets/img/theme/diseño.png')}}" class="img-fluid" width="60%" height="60%"></label>
+                  <input class="custom-control-input " id="customCheck3" type="checkbox">
+                  <label class="custom-control-label" for="customCheck3"><img src="{{asset('assets/img/theme/diseño.png')}}" class="img-fluid" width="60%" height="60%"></label>
                 </div>
                 <h6 class="text-center mt-0 pt-0" style="line-height: 1;"><small>Solicitar<br>Diseño</small></h6>
               </div>
