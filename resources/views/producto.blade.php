@@ -39,7 +39,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-3 col-md-3 m-0 p-0 border-right">
+          <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
               <strong class="text-nowrap">Tarejeta de Presentación</strong><br>
               Mate + Reserva UV
@@ -56,7 +56,7 @@
             <br>
             <button class="btn btn-outline-dark">¿Tienes Preguntas?</button>
           </div>
-          <div class="col-lg-4 col-md-3">
+          <div class="col-lg-4 col-md-3 mt-2 border-top">
             <h5 class="title font-weight-bold">Selecciona la Cantidad</h5>
             <div class="stats">
               <div class="stars text-warning">
@@ -99,7 +99,7 @@
             <div class="row justify-content-start">
               <div class="container">
                 <div class="row">
-                  <div class="col-md-4">
+                  <div class="col-4">
                     <div class="form-group">
                       <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="1">
                     </div>
