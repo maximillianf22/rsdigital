@@ -11,7 +11,7 @@
     </div>
 </nav>
 <nav class="navbar navbar-expand-lg navbar-light shadow-sm">
-    <div class="container-fluid ml-4 mr-4">
+    <div class="container">
         <a class="navbar-brand" href="/"><img src="{{asset('assets/img/theme/logo.png')}}" class="p-0 m-0" alt="" /></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-default" aria-controls="navbar-default" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>

@@ -70,8 +70,8 @@
       <!--     *********    Tarjeta Opciones  -->
       <section class="blogs-6">
         <a href="/producto">
-        <div class="container-fluid">
-          <div class="row ml-5 mr-5">
+        <div class="container">
+          <div class="row">
             <div class="col-md-3">
               <div class="card">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/products/product-1.jpg')}}" alt="Card image cap">
@@ -148,7 +148,7 @@
       <section class="blogs-6">
         <a href="/producto">
 
-        <div class="container-fluid">
+        <div class="container">
           <div class=" container mt-3 mb-3">
             <div class="row">
               <div class="col-2"></div>
@@ -158,7 +158,7 @@
               <div class="col-2"></div>
             </div>
             </div>
-          <div class="row ml-5 mr-5">
+          <div class="row">
             <div class="col-md-3">
               <div class="card">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/products/product-1.jpg')}}" alt="Card image cap">
@@ -237,7 +237,7 @@
         </section>
 
         <section>
-          <div class="container-fluid pt-3 pb-3">
+          <div class="container pt-3 pb-3">
             <div class="col-md-12 p-0">
               <div class="row row-cols-1 row-cols-md-3">
                   <div class="owl-carousel owl-head owl-theme owl-loaded owl-drag">
