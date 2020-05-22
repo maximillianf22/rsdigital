@@ -69,8 +69,9 @@
         </div><br><br>
       <!--     *********    Tarjeta Opciones  -->
       <section class="blogs-6">
+        <a href="/producto">
         <div class="container-fluid">
-          <div class="row ml-3 mr-3">
+          <div class="row ml-5 mr-5">
             <div class="col-md-3">
               <div class="card">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/products/product-1.jpg')}}" alt="Card image cap">
@@ -117,6 +118,7 @@
             </div>
           </div>
         </div>
+        </a>
       </section>
       <!--     *********   div-1  -->
       <section class="d-none d-sm-none d-md-block d-lg-block">
@@ -124,6 +126,7 @@
         <img src="{{asset('assets/img/theme/div1.jpg')}}" class="img-fluid">
       </div>
       </section>
+      <!--     *********   Compra  -->
        <section class="mt-2">
         <div class="container-fluid " style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
             <div class="row ml-5">
@@ -143,6 +146,8 @@
       </section>
             <!--     *********    Tarjeta Opciones  -->
       <section class="blogs-6">
+        <a href="/producto">
+
         <div class="container-fluid">
           <div class=" container mt-3 mb-3">
             <div class="row">
@@ -153,7 +158,7 @@
               <div class="col-2"></div>
             </div>
             </div>
-          <div class="row ml-3 mr-3">
+          <div class="row ml-5 mr-5">
             <div class="col-md-3">
               <div class="card">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/products/product-1.jpg')}}" alt="Card image cap">
@@ -200,6 +205,7 @@
             </div>
           </div>
         </div>
+        </a>
       </section>
         <!--     *********   Seccion Suscribete  -->
         <section> 
