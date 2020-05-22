@@ -225,7 +225,7 @@
                             </div>
                             <input class="form-control" placeholder="Correo electronico" type="text">
                             <div class="input-group-append">
-                                <button class="btn btn-danger" type="button">Suscríbete</button>
+                                <button class="btn btn-danger" type="button">Enviar</button>
                             </div>
                         </div>
                     </div>
