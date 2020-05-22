@@ -20,8 +20,8 @@
 
 @section('content')
       <!--     *********     Header    -->
-      <div class="contactus-1 bg-default" style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 60vh">
-        <div class="container "><br>
+      <div class="contactus-1 bg-white" >
+        <div class="container " style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 60vh"><br>
           <div class="row ml-3 mt-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
               <h2 class="title text-center text-dark text-uppercase d-none d-sm-none d-lg-block d-md-block" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
@@ -43,8 +43,7 @@
         </div>
       </div>
       <!--     *********     Nav    -->
-      <div class="container-fluid shadow d-none d-sm-none d-md-block d-lg-block">
-        <div class="container">
+        <div class="container shadow d-none d-sm-none d-md-block d-lg-block">
         <ul class="nav justify-content-center nav nav-pills nav-fill flex-column flex-sm-row mb-0">
               <li class="nav-item border-bottom mx-auto pr-0" style="border-bottom: .1rem solid #df0024!important;">
                 <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Tarjetas</strong></a>
@@ -66,7 +65,7 @@
               </li>
             </ul>
             </div>
-        </div><br><br>
+        <br><br>
       <!--     *********    Tarjeta Opciones  -->
       <section class="blogs-6">
         <a href="/producto">
@@ -122,13 +121,13 @@
       </section>
       <!--     *********   div-1  -->
       <section class="d-none d-sm-none d-md-block d-lg-block">
-        <div class="container-fluid mx-auto p-0 m-0">
+        <div class="container mx-auto p-0 m-0">
         <img src="{{asset('assets/img/theme/div1.jpg')}}" class="img-fluid">
       </div>
       </section>
       <!--     *********   Compra  -->
-       <section class="mt-2" style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
-        <div class="container">
+       <section class="mt-2">
+        <div class="container" style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
             <div class="row ml-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
               <h2 class="title text-center text-white text-uppercase mt-5" style="font-color: white; ">
@@ -209,7 +208,7 @@
       </section>
         <!--     *********   Seccion Suscribete  -->
         <section> 
-          <div class="container-fluid bg-secondary shadow-sm">
+          <div class="container bg-secondary shadow-sm">
             <div class="row pt-5 pb-3">
                 <div class="col-md-3 col-1"></div>
                 <div class="col-md-6 col-10">

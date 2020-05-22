@@ -18,7 +18,7 @@
       <div class="container-fluid">
         <!--Secction Priducto-->
         <section id="producto">
-        <div class="row mr-5 ml-5 border-bottom">
+        <div class="row mr-5 ml-5">
           <div class="col-lg-5 col-md-6 ">
             <div id="productCarousel" class="carousel slide" data-ride="carousel" data-interval="8000">
               <ol class="carousel-indicators mt-5">
@@ -146,7 +146,7 @@
         </section>
         <!--     *********   productos relacionados  -->
         <section class="blogs-6">
-        <div class="container-fluid mt-3">
+        <div class="container mt-3">
           <div class=" container mt-3 mb-3">
             <div class="row">
               <div class="col-2"></div>
