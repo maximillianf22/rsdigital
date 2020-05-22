@@ -18,7 +18,7 @@
       <div class="container-fluid">
         <!--Secction Priducto-->
         <section id="producto">
-        <div class="row mr-5 ml-5">
+        <div class="row mr-5 ml-5 border-bottom">
           <div class="col-lg-5 col-md-6 ">
             <div id="productCarousel" class="carousel slide" data-ride="carousel" data-interval="8000">
               <ol class="carousel-indicators mt-5">
@@ -118,7 +118,7 @@
         </div>
         </section>
       <!--     *********   div-2  -->
-        <section class="d-none d-sm-none d-md-block d-lg-block border-top mt-5">
+        <section class="d-none d-sm-none d-md-block d-lg-block mt-5">
           <div class="container-fluid mx-auto p-0 m-0">
             <img src="{{asset('assets/img/theme/div2.jpg')}}" class="img-fluid">
           </div>
