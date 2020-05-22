@@ -145,9 +145,9 @@
             </div>
           </div>
         </section>
-
-         <section class="blogs-6">
-        <div class="container-fluid">
+        <!--     *********   productos relacionados  -->
+        <section class="blogs-6">
+        <div class="container-fluid mt-3">
           <div class=" container mt-3 mb-3">
             <div class="row">
               <div class="col-2"></div>
