@@ -44,13 +44,12 @@
               <strong class="text-nowrap">Tarejeta de Presentación</strong><br>
               Mate + Reserva UV
             </h5>
-            <div class="stats">
+            <div class="stats border-bottom mb-2">
               <div class="stars text-danger">
                 <h2 class="main-price text-danger font-weight-bold m-0 p-0">$125.950</h2>
                 <h6 class="text-dark m-0 p-0">Total sin IVA</h6>
               </div>
             </div>
-            <hr>
             <h6 class="category"><strong>Material:</strong> Propalcote 300gr</h6>
             <h6 class="category"><strong>Tamaño:</strong> 9 x 5,5 cm</h6>
             <br>
