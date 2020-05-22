@@ -75,7 +75,7 @@
                 <label class="custom-control-label" for="customRadio2">Por dos caras 4x4</label>
               </div>
             <div class="row pick-size">
-            <h5 class="title font-weight-bold mt-2 ml-2">Elige como crear tu producto</h5>
+            <h5 class="title font-weight-bold mt-2 ml-2">Elige como crear tu producto</h5><br>
               <div class="col-lg-4 col-4">
                 <div class="custom-control custom-checkbox mb-3">
                   <input class="custom-control-input " id="customCheck2" type="checkbox" checked>
