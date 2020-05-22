@@ -21,8 +21,8 @@
 @section('content')
       <!--     *********     Header    -->
       <div class="contactus-1 bg-default" style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 60vh">
-        <div class="container-fluid "><br>
-          <div class="row mt-5">
+        <div class="container "><br>
+          <div class="row ml-3 mt-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
               <h2 class="title text-center text-dark text-uppercase d-none d-sm-none d-lg-block d-md-block" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
                 COMO EDITAR MIS FOTOS <br>
@@ -127,8 +127,8 @@
       </div>
       </section>
       <!--     *********   Compra  -->
-       <section class="mt-2">
-        <div class="container-fluid " style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
+       <section class="mt-2" style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
+        <div class="container">
             <div class="row ml-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
               <h2 class="title text-center text-white text-uppercase mt-5" style="font-color: white; ">
