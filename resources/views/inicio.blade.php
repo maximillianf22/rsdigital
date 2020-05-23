@@ -15,18 +15,30 @@
     .nav-pills .nav-link {
       box-shadow: 0 1px 1px rgba(50,50,93,.11), 0 1px 1px rgba(0,0,0,0); */
   }
+
+  .hovertext {
+    color:black !important;
+  }
+
+  a.hovertext:hover {
+    color: white !important;
+  }
+
+  .nav-pills .nav-link {
+    box-shadow: 0 0px 0px rgba(50,50,93,.11), 0 0px 0px rgba(0,0,0,0) !important;
+}
 </style>
 @endsection
 
 @section('content')
       <!--     *********     Header    -->
       <div class="contactus-1 bg-white" >
-        <div class="container " style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 60vh"><br>
+        <div class="container " style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 50vh"><br>
           <div class="row ml-3 mt-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
-              <h2 class="title text-center text-dark text-uppercase d-none d-sm-none d-lg-block d-md-block" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
+              <h3 class="title text-center text-dark text-uppercase d-none d-sm-none d-lg-block d-md-block" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
                 COMO EDITAR MIS FOTOS <br>
-                PARA <strong>REDES SOCIALES</strong></h2>
+                PARA <strong>REDES SOCIALES</strong></h3>
               <h2 class="title text-center text-dark text-uppercase d-block  d-lg-none d-md-none card" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
                 COMO EDITAR MIS FOTOS <br>
                 PARA <strong>REDES SOCIALES</strong></h2>
@@ -43,25 +55,25 @@
         </div>
       </div>
       <!--     *********     Nav    -->
-        <div class="container shadow d-none d-sm-none d-md-block d-lg-block">
+        <div class="container shadow-sm d-none d-sm-none d-md-block d-lg-block">
         <ul class="nav justify-content-center nav nav-pills nav-fill flex-column flex-sm-row mb-0">
               <li class="nav-item border-bottom mx-auto pr-0" style="border-bottom: .1rem solid #df0024!important;">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Tarjetas</strong></a>
+                <a class="nav-link bg-white text-dark mb-0 hovertext" href="#!" style="line-height: 0.9rem;"><strong>Tarjetas de <br>Presetación</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Bolsas & Empaques</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Bolsas & Empaques</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Volantes</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Volantes</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Pendones</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Pendones</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Membretes</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Membretes</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white text-dark mb-0" href="#!"><strong>Facturas</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Facturas</strong></a>
               </li>
             </ul>
             </div>
@@ -127,13 +139,13 @@
       </section>
       <!--     *********   Compra  -->
        <section class="mt-2">
-        <div class="container" style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 47vh">
+        <div class="container" style="background-image: url('{{asset('assets/img/theme/div-bg.jpg')}}');; background-attachment: fixed; background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 35vh">
             <div class="row ml-5">
             <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
-              <h2 class="title text-center text-white text-uppercase mt-5" style="font-color: white; ">
+              <h2 class="title text-center text-white text-uppercase mt-2" style="font-color: white; ">
                 <img src="{{asset('assets/img/theme/truck.png')}}" class="img-fluid" width="10%" height="10%"><br>
-                Compra online,<br>
-                Te lo llevamos <strong>Gratis</strong><br>
+                Compra ONLINE,<br>
+                te lo llevamos <strong>Gratis</strong><br>
                   <img src="{{asset('assets/img/theme/text-div.png')}}" class="img-fluid" width="50%" height="50%">
               </h2>
             </div>

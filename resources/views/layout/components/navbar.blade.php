@@ -36,7 +36,7 @@
                 <li class="nav-item">
                     <a class="btn btn-danger btn-round mt-1 btn-sm" href="#">
                         <span>¿Que quieres imprimir?</span>
-                        <i class="fas fa-chevron-down"></i>
+                        <i class="fa fa-caret-down"></i>
                     </a>
                 </li>
                 <li class="nav-item">
@@ -47,7 +47,7 @@
                 <li class="nav-item">
                     <a class="btn btn-outline-secondary btn-round mt-1 btn-sm" href="#">
                         <span class="nav-link-inner--text text-dark">Nosotros</span>
-                        <i class="fas fa-chevron-down"></i>
+                        <i class="fa fa-caret-down"></i>
                     </a>
                 </li>
                 <li class="nav-item dropdown">

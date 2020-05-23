@@ -15,11 +15,11 @@
 
 @section('content')
 <div class="section section-item">
-      <div class="container-fluid">
+      <div class="container p-0">
         <!--Secction Priducto-->
         <section id="producto">
         <div class="row mr-5 ml-5">
-          <div class="col-lg-5 col-md-6 ">
+          <div class="col-lg-5 col-md-5 ">
             <div id="productCarousel" class="carousel slide" data-ride="carousel" data-interval="8000">
               <ol class="carousel-indicators mt-5">
                 <li data-target="#productCarousel" data-slide-to="0" class="active"></li>
@@ -28,13 +28,13 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-1.jpg')}}" alt="First slide" width="90%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-1.jpg')}}" alt="First slide" width="100%">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-2.jpg')}}" alt="Second slide" width="90%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-2.jpg')}}" alt="Second slide" width="100%">
                 </div>
                 <div class="carousel-item">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-3.jpg')}}" alt="Third slide" width="90%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/products/product-3.jpg')}}" alt="Third slide" width="100%">
                 </div>
               </div>
             </div>
@@ -49,13 +49,14 @@
                 <h2 class="main-price text-danger font-weight-bold m-0 p-0">$125.950</h2>
                 <h6 class="text-dark m-0 p-0">Total sin IVA</h6>
               </div>
+            <br><br>
             </div>
             <h6 class="category"><strong>Material:</strong> Propalcote 300gr</h6>
             <h6 class="category"><strong>Tamaño:</strong> 9 x 5,5 cm</h6>
             <br>
             <button class="btn btn-outline-dark">¿Tienes Preguntas?</button>
           </div>
-          <div class="col-lg-4 col-md-3 mt-2 border-top">
+          <div class="col-lg-4 col-md-4 mt-2 border-top ">
             <h5 class="title font-weight-bold">Selecciona la Cantidad</h5>
             <div class="stats">
               <div class="stars text-warning">
@@ -64,7 +65,7 @@
                 <button class="btn btn-sm btn-secondary text-danger">2.000 uds</button>
               </div>
             </div>
-            <h5 class="title font-weight-bold mt-4">Tipo de Impresión</h5>
+            <h5 class="title font-weight-bold mt-2">Tipo de Impresión</h5>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio1" type="radio">
                 <label class="custom-control-label" for="customRadio1">Por una cara 4x0</label>
@@ -74,7 +75,7 @@
                 <label class="custom-control-label" for="customRadio2">Por dos caras 4x4</label>
               </div>
             <div class="row pick-size">
-            <h5 class="title font-weight-bold mt-2 ml-2">Elige como crear tu producto</h5><br>
+            <h5 class="title font-weight-bold mt-0 ml-2">Elige como crear tu producto</h5><br>
               <div class="col-lg-4 col-4">
                 <div class="custom-control custom-checkbox mb-3">
                   <input class="custom-control-input " id="customCheck2" type="checkbox" checked>
@@ -95,7 +96,7 @@
               </div>
             </div>
             <br>
-            <div class="row justify-content-start">
+            <div class="row justify-content-start mt-0">
               <div class="container">
                 <div class="row">
                   <div class="col-4">
@@ -130,14 +131,14 @@
               <div class="col-6">
                 <button class="btn btn-secondary btn-lg btn-block border">
                   <h5 class="mb-0 pb-0 font-weight-bold">
-                    ¿Como Enviar Tu Diseño? <i class="fas fa-chevron-down"></i>
+                    ¿Como Enviar Tu Diseño? <i class="fa fa-caret-down"></i>
                   </h5>
                 </button>
               </div>
               <div class="col-6">
                 <button class="btn btn-secondary btn-lg btn-block border">
                   <h5 class="mb-0 pb-0 font-weight-bold">
-                    ¿Tiempo de Entrega? <i class="fas fa-chevron-down"></i>
+                    ¿Tiempo de Entrega? <i class="fa fa-caret-down"></i>
                   </h5>
                 </button>
               </div>
@@ -204,6 +205,29 @@
           </div>
         </div>
       </section>
+      </div>
+
+      <div class="contactus-1 bg-white" >
+        <div class="container " style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 40vh"><br>
+          <div class="row ml-3 mt-2">
+            <div class="col-lg-5 col-md-5 col-12 d-flex justify-content-center flex-column">
+              <h3 class="title text-center text-dark text-uppercase d-none d-sm-none d-lg-block d-md-block" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
+                COMO EDITAR MIS FOTOS <br>
+                PARA <strong>REDES SOCIALES</strong></h3>
+              <h2 class="title text-center text-dark text-uppercase d-block  d-lg-none d-md-none card" style="font-color: black; ">DESCARGA <strong>GRATIS</strong><br>
+                COMO EDITAR MIS FOTOS <br>
+                PARA <strong>REDES SOCIALES</strong></h2>
+              <div class="info info-horizontal">
+                <div class="description pull-center text-center">
+                 <button class="btn btn-danger text-uppercase btn-round"><h5 class="text-white p-0 m-0"><b>¡Lo Quiero!</b></h5></button>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-5 col-md-7 mx-auto">
+              
+            </div>
+          </div>
+        </div>
       </div>
     </div>
 

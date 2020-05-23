@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row  mb-3">
       <div class="col-md-5 col-12">
-        <img src="{{asset('assets/img/theme/foot1.png')}}" class="img-fluid">
+        <img src="{{asset('assets/img/theme/foot1.png')}}" class="img-fluid mt-4">
       </div>
       <div class="col-md-1 col-3 ml-3 mr-3 pl-3 pm-3">
         <ul class="list-unstyled ">
@@ -36,9 +36,9 @@
         <div class="mt-3">
           <h3 class="text-white text-center">Siguenos</h3>
           <div class="row text-center">
-            <div class="col-4"><i class="fab fa-facebook fa-3x text-white"></i></div>
-            <div class="col-4"><i class="fab fa-instagram fa-3x text-white"></i></div>
-            <div class="col-4"><i class="fab fa-twitter fa-3x text-white"></i></div>
+            <div class="col-4"><i class="fab fa-facebook fa-2x text-white"></i></div>
+            <div class="col-4"><i class="fab fa-instagram fa-2x text-white"></i></div>
+            <div class="col-4"><i class="fab fa-twitter fa-2x text-white"></i></div>
           </div>
         </div>
       </div>
