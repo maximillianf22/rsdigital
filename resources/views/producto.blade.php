@@ -153,7 +153,7 @@
             <div class="row">
               <div class="col-2"></div>
                 <div class="col-8 text-center">
-                  <h1 class="text-center" style="border-bottom: .1rem solid #df0024!important;">Productos más vendidos</h1>
+                  <h3 class="text-center font-weight-bold" style="border-bottom: .1rem solid #df0024!important;">Productos Relacionados</h3>
                 </div>
               <div class="col-2"></div>
             </div>
