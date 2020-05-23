@@ -145,19 +145,20 @@
             </div>
           </div>
         </section>
-        <!--     *********   productos relacionados  -->
-        <section class="blogs-6">
-        <div class="container mt-3">
+      </div>
+
+       <section class="blogs-6">
+        <div class="container">
           <div class=" container mt-3 mb-3">
             <div class="row">
               <div class="col-2"></div>
                 <div class="col-8 text-center">
-                  <h1 class="text-center" style="border-bottom: .1rem solid #df0024!important;">Productos Relacionados</h1>
+                  <h1 class="text-center" style="border-bottom: .1rem solid #df0024!important;">Productos más vendidos</h1>
                 </div>
               <div class="col-2"></div>
             </div>
             </div>
-          <div class="row ml-5 mr-5">
+          <div class="row">
             <div class="col-md-3">
               <div class="card">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/products/product-1.jpg')}}" alt="Card image cap">
@@ -205,7 +206,6 @@
           </div>
         </div>
       </section>
-      </div>
 
       <div class="contactus-1 bg-white" >
         <div class="container " style="background-image: url('{{asset('assets/img/ill/header.jpg')}}'); background-size:     cover;  background-repeat:   no-repeat;  background-position: center center; height: 40vh"><br>
