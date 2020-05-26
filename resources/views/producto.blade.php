@@ -99,12 +99,12 @@
             <div class="row justify-content-start mt-0">
               <div class="container">
                 <div class="row">
-                  <div class="col-4">
+                  <div class="col-3">
                     <div class="form-group">
                       <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="1">
                     </div>
                   </div>
-                  <div class="col-8">
+                  <div class="col-9">
                     <button class="btn btn-danger ml-3 btn-block">Agregar al Carrito &nbsp;<i class="ni ni-cart"></i></button>
                   </div>
                 </div>
