@@ -37,7 +37,7 @@
         <h1 class="mt-5"><b class=" border-bottom border-danger">Tarjetas de Presentación</b></h1>
           <div class="row">
             <div class="col-md-3 mt-5">
-             <a href="/economica">
+             <a href="/economicas">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/tarjetas/1.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Tarjeta de Presentación Economica</h6>

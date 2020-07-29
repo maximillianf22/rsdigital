@@ -28,14 +28,14 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/papeleria/5.jpg')}}" alt="First slide" width="100%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/papeleria/6.jpg')}}" alt="First slide" width="100%">
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
-              <strong class="text-nowrap">Talonario de Facturas Media Carta</strong><br>
+              <strong class="text">Talonario de Facturas Media Carta</strong><br>
             </h5>
             <div class="stats mb-2">
               <div class="stars text-danger">

@@ -97,7 +97,11 @@ Route::get('/factura-media-carta', function () {
 });
 
 Route::get('/factura-oficio', function () {
-    return view('papeleria.factura-media-carta');
+    return view('papeleria.factura-oficio');
+});
+
+Route::get('/membrete', function () {
+    return view('papeleria.membrete');
 });
 
 Route::get('/membrete-ecologicas', function () {

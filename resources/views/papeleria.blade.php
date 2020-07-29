@@ -57,7 +57,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/Plegables">
+             <a href="/plegables">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/3.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Plegables</h6>
@@ -98,7 +98,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/factura-carta">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/7.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/6a.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Talonario de Factura Tamaño Carta</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -108,7 +108,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/factura-oficio">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/8.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/7.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Talonario de Factura Tamaño Oficio</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -118,7 +118,7 @@
             </div>
               <div class="col-md-3 mt-5">
              <a href="/recetarios">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/9.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/8.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Recetarios</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -128,7 +128,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="carpetas">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/10.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/9.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Carpetas Corporativas</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/calendarios">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/11.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/10.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Calendarios de Mesa</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -148,7 +148,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/afiches">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/12.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/11.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Afiches</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -158,7 +158,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/cambrella">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/13.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/12.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Sobres</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -168,7 +168,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/stiker-cuadrado">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/14.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/13.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Individuales</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -178,7 +178,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/stiker-redondo">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/15.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/14.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Tacos de Memos</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
@@ -188,7 +188,7 @@
             </div>
             <div class="col-md-3 mt-5">
              <a href="/imanes">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/16.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/15.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Agendas</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
