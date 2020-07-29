@@ -37,60 +37,60 @@
         <h1 class="mt-5"><b class=" border-bottom border-danger">¿Que quieres imprimir?</b></h1>
           <div class="row">
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="/bolsas">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/bolsa.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Bolsas y Etiquetas</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="/tarjetas">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/tarjeta.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Tarjetas de Presentación</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="/pendones">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/pendon.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Digital Gran Formato</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="/papeleria">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/afiche.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Papeleria Corporativa</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/empaque.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Empaques</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/sorvenir.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Sorvenir</button>
                 </div>
-              </div>
+              </a>
             </div>
             <div class="col-md-3 mt-5">
-              <div class="">
+              <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/imprimir/impresion.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Impresión Digital</button>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
         </div>
@@ -126,7 +126,7 @@
                 <div class="description pull-center text-center">
                  <button class="btn btn-danger text-uppercase btn-round"><h5 class="text-white p-0 m-0"><b>¡Lo Quiero!</b></h5></button>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
         </div>

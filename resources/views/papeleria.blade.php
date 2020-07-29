@@ -157,7 +157,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/cambrella">
+             <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/12.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Sobres</h6>
@@ -167,7 +167,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/stiker-cuadrado">
+             <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/13.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Individuales</h6>
@@ -177,7 +177,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/stiker-redondo">
+             <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/14.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Tacos de Memos</h6>
@@ -187,7 +187,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/imanes">
+             <a href="#">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/15.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Agendas</h6>

@@ -41,7 +41,7 @@
           </div>
           <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
-              <strong class="text-nowrap">Tarejeta de Presentación</strong><br>
+              <strong class="">Tarejeta de Presentación</strong><br>
               Mate + Reserva UV
             </h5>
             <div class="stats border-bottom mb-2">

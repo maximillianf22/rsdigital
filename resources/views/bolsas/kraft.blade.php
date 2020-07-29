@@ -35,7 +35,7 @@
           </div>
           <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
-              <strong class="text-nowrap">Bolsas en Papel Kraft</strong><br>
+              <strong class="">Bolsas en Papel Kraft</strong><br>
             </h5>
             <div class="stats mb-2">
               <div class="stars text-danger">

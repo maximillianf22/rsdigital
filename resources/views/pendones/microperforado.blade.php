@@ -52,7 +52,7 @@
               </div>
           </div>
           <div class="col-lg-4 col-md-4 mt-2  pl-lg-4">
-            <h5 class="title font-weight-bold">Tamaño del Vinilo</h5>
+            <h5 class="title font-weight-bold">Tamaño</h5>
             <div class="stats">
               <div class="stars text-warning">
                 <button class="btn btn-sm btn-danger text-uppercase">100x100 cm</button>
