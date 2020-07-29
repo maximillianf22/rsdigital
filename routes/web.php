@@ -31,6 +31,10 @@ Route::get('/kraft', function () {
     return view('bolsas.kraft');
 });
 
+Route::get('/bond', function () {
+    return view('bolsas.bond');
+});
+
 Route::get('/stiker-cuadrado', function () {
     return view('bolsas.stiker-cuadrado');
 });
