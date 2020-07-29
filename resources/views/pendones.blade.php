@@ -86,7 +86,7 @@
               </a>
             </div>
             <div class="col-md-4 mt-5">
-             <a href="/stiker-cuadrado">
+             <a href="/microperforado">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/pendones/6.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Microperforado</h6>
