@@ -84,6 +84,10 @@ Route::get('/rollup', function () {
     return view('pendones.rollup');
 });
 
+Route::get('/microperforado', function () {
+    return view('pendones.microperforado');
+});
+
 Route::get('/papeleria', function () {
     return view('papeleria');
 });
