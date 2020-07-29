@@ -28,14 +28,14 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/papeleria/3.jpg')}}" alt="First slide" width="100%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/papeleria/9.jpg')}}" alt="First slide" width="100%">
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
-              <strong class="text-nowrap">Plegables Tres Cuerpos</strong><br>
+              <strong class="text-nowrap">Afiches</strong><br>
             </h5>
             <div class="stats mb-2">
               <div class="stars text-danger">
@@ -44,7 +44,8 @@
               </div>
             <br><br>
             </div>
-            <h6 class="category"><strong>Acabado: </strong>Corte Recto Plegado en 3 caras</h6>
+            <h6 class="category"><strong>Material: </strong>Propalcote 115gr</h6>
+            <h6 class="category"><strong>Tintas: </strong>una cara (4x0)</h6>
             <br>
              <div class="container border-top">
               <h5 class="font-weight-bold">¿Necesitas otra cantidad o medida?</h5>
@@ -53,45 +54,37 @@
               </div>
           </div>
           <div class="col-lg-4 col-md-4 mt-2  pl-lg-4">
-            <h5 class="title font-weight-bold">Tamaño de plegable Abierto</h5>
+            <h5 class="title font-weight-bold">Tamaño del Afiche</h5>
             <div class="stats">
               <div class="stars text-warning">
-                <button class="btn btn-sm btn-danger text-uppercase">Carta 27,9x21,5</button>
-                <button class="btn btn-sm btn-secondary text-danger text-uppercase">Tabloide 44x30</button>
+                <button class="btn btn-sm btn-danger text-uppercase">33x48</button>
               </div>
             </div>
             <h5 class="title font-weight-bold mt-4">Selecciona la Cantidad</h5>
             <div class="stats">
               <div class="stars text-warning">
-                <button class="btn btn-sm btn-danger">50 uds</button>
-                <button class="btn btn-sm btn-secondary text-danger">100 uds</button>
-                <button class="btn btn-sm btn-secondary text-danger">200 uds</button>
+                <button class="btn btn-sm btn-danger">100 uds</button>
                 <button class="btn btn-sm btn-secondary text-danger">500 uds</button>
+                <button class="btn btn-sm btn-secondary text-danger">1000 uds</button>
               </div>
               <div class="stars text-warning">
-                <button class="btn btn-sm btn-secondary text-danger">1000 uds</button>
                 <button class="btn btn-sm btn-secondary text-danger">2000 uds</button>
                 <button class="btn btn-sm btn-secondary text-danger">5000 uds</button>
               </div>
-            </div>
-             <h5 class="title font-weight-bold mt-2">Tintas</h5>
+               <h5 class="title font-weight-bold mt-2">Plastificado</h5>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio1" type="radio">
-                <label class="custom-control-label" for="customRadio1">1x1 tintas</label>
+                <label class="custom-control-label" for="customRadio1">Sin plastificado</label>
               </div>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
-                <label class="custom-control-label" for="customRadio1">4x4 (full color)</label>
-              </div>
-                <h5 class="title font-weight-bold mt-2">Material</h5>
-              <div class="custom-control custom-radio mb-3">
-                <input name="custom-radio-1" class="custom-control-input" id="customRadio1" type="radio">
-                <label class="custom-control-label" for="customRadio1">Bond 75 gr</label>
+                <label class="custom-control-label" for="customRadio1">Plastificado Brillante</label>
               </div>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
-                <label class="custom-control-label" for="customRadio1">Propalcote 115 gr</label>
+                <label class="custom-control-label" for="customRadio1">Plastificado Mate</label>
               </div>
+              
             <div class="row pick-size">
             <h5 class="title font-weight-bold mt-0 ml-2">Elige como crear tu producto</h5><br>
               <div class="col-lg-4 col-4">

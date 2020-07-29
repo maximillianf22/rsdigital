@@ -70,3 +70,76 @@ Route::get('/rollup', function () {
 Route::get('/papeleria', function () {
     return view('papeleria');
 });
+
+Route::get('/afiches', function () {
+    return view('papeleria.afiches');
+});
+
+Route::get('/calendarios', function () {
+    return view('papeleria.calendarios');
+});
+
+Route::get('/carpetas', function () {
+    return view('papeleria.carpetas');
+});
+
+
+Route::get('/carpetas', function () {
+    return view('papeleria.carpetas');
+});
+
+Route::get('/factura-carta', function () {
+    return view('papeleria.factura-carta');
+});
+
+Route::get('/factura-media-carta', function () {
+    return view('papeleria.factura-media-carta');
+});
+
+Route::get('/factura-oficio', function () {
+    return view('papeleria.factura-media-carta');
+});
+
+Route::get('/membrete-ecologicas', function () {
+    return view('papeleria.membrete-ecologicas');
+});
+
+Route::get('/plegables', function () {
+    return view('papeleria.plegables');
+});
+
+Route::get('/recetarios', function () {
+    return view('papeleria.recetarios');
+});
+
+Route::get('/volantes-economicos', function () {
+    return view('papeleria.volantes-economicos');
+});
+
+Route::get('/volantes', function () {
+    return view('papeleria.volantes');
+});
+
+Route::get('/tarjetas', function () {
+    return view('tarjetas');
+});
+
+Route::get('/economicas', function () {
+    return view('tarjetas.economicas');
+});
+
+Route::get('/cuadradas', function () {
+    return view('tarjetas.cuadradas');
+});
+
+Route::get('/brillantes', function () {
+    return view('tarjetas.brillantes');
+});
+
+Route::get('/mate', function () {
+    return view('tarjetas.mate');
+});
+
+Route::get('/mate-uv', function () {
+    return view('tarjetas.mate-uv');
+});

@@ -58,19 +58,19 @@
         <div class="container shadow-sm d-none d-sm-none d-md-block d-lg-block">
         <ul class="nav justify-content-center nav nav-pills nav-fill flex-column flex-sm-row mb-0">
               <li class="nav-item border-bottom mx-auto pr-0" style="border-bottom: .1rem solid #df0024!important;">
-                <a class="nav-link bg-white text-dark mb-0 hovertext" href="#!" style="line-height: 0.9rem;"><strong>Tarjetas de <br>Presetación</strong></a>
+                <a class="nav-link bg-white text-dark mb-0 hovertext" href="/tarjetas" style="line-height: 0.9rem;"><strong>Tarjetas de <br>Presetación</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/bolsas-empaques"><strong>Bolsas & Empaques</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Volantes</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/papeleria"><strong>Volantes</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/pendones"><strong>Pendones</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Membretes</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/papeleria"><strong>Membretes</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/papeleria"><strong>Facturas</strong></a>

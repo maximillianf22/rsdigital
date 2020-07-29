@@ -37,7 +37,7 @@
         <h1 class="mt-5"><b class=" border-bottom border-danger">Papelería Corporativa</b></h1>
           <div class="row">
             <div class="col-md-3 mt-5">
-             <a href="/kraft">
+             <a href="/volantes-economicos">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/1.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Volantes Economicos</h6>
@@ -47,7 +47,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/volantes">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/2.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Volantes</h6>
@@ -57,7 +57,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/Plegables">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/3.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Plegables</h6>
@@ -67,7 +67,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/membrete">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/4.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Hojas Membretadas</h6>
@@ -77,7 +77,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/cambrella">
+             <a href="/membrete-ecologicas">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/5.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Hojas Membretadas Ecologicas</h6>
@@ -87,7 +87,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/stiker-cuadrado">
+             <a href="/factura-media-carta">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/6.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Talonario de Factura Tamaño Media Carta</h6>
@@ -97,7 +97,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/stiker-redondo">
+             <a href="/factura-carta">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/7.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Talonario de Factura Tamaño Carta</h6>
@@ -107,7 +107,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="/imanes">
+             <a href="/factura-oficio">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/8.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Talonario de Factura Tamaño Oficio</h6>
@@ -116,8 +116,8 @@
                 </div>
               </a>
             </div>
-                        <div class="col-md-3 mt-5">
-             <a href="/kraft">
+              <div class="col-md-3 mt-5">
+             <a href="/recetarios">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/9.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Recetarios</h6>
@@ -127,7 +127,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="carpetas">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/10.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Carpetas Corporativas</h6>
@@ -137,7 +137,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/calendarios">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/11.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Calendarios de Mesa</h6>
@@ -147,7 +147,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/afiches">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/12.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Afiches</h6>
