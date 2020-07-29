@@ -128,7 +128,7 @@ Route::get('/tarjetas', function () {
     return view('tarjetas');
 });
 
-Route::get('/economicas', function () {
+Route::get('/economica', function () {
     return view('tarjetas.economicas');
 });
 
