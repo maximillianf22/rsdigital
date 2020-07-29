@@ -43,6 +43,10 @@ Route::get('/propalcote', function () {
     return view('bolsas.propalcote');
 });
 
+Route::get('/cabrella', function () {
+    return view('bolsas.cabrella');
+});
+
 
 Route::get('/stiker-cuadrado', function () {
     return view('bolsas.stiker-cuadrado');
