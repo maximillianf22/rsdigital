@@ -28,7 +28,7 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/bolsas/8.jpg')}}" alt="First slide" width="100%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/bolsas/5.jpg')}}" alt="First slide" width="100%">
                 </div>
               </div>
             </div>
@@ -44,9 +44,9 @@
               </div>
             <br><br>
             </div>
-            <h6 class="category"><strong>Material: </strong></h6><br>
+            <h6 class="category"><strong>Material: </strong></h6>
             <h6>Tela cambrel</h6>
-            <h6 class="category"><strong>Bodado: </strong></h6><br>
+            <h6 class="category"><strong>Bodado: </strong></h6>
             <h6>Screen</h6>
             <br>
               <div class="container border-top">
