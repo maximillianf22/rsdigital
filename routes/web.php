@@ -35,6 +35,10 @@ Route::get('/bond', function () {
     return view('bolsas.bond');
 });
 
+Route::get('/earth', function () {
+    return view('bolsas.earth');
+});
+
 Route::get('/stiker-cuadrado', function () {
     return view('bolsas.stiker-cuadrado');
 });
