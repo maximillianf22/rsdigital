@@ -39,6 +39,11 @@ Route::get('/earth', function () {
     return view('bolsas.earth');
 });
 
+Route::get('/propalcote', function () {
+    return view('bolsas.propalcote');
+});
+
+
 Route::get('/stiker-cuadrado', function () {
     return view('bolsas.stiker-cuadrado');
 });
