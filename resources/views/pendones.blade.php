@@ -77,7 +77,7 @@
             </div>
             <div class="col-md-4 mt-5">
              <a href="/vinilo">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/pendones/5.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/pendones/8.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Vinilos Impresos</h6>
                     <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
