@@ -47,7 +47,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/bond">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/2.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Bolsas Papel Bond</h6>
@@ -67,7 +67,7 @@
               </a>
             </div>
             <div class="col-md-3 mt-5">
-             <a href="#">
+             <a href="/earth">
                 <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/4.jpg')}}" alt="Card image cap">
                   <div class="card-body p-0">
                     <h6 class="card-title p-0 m-0">Bolsas en Earth Pact</h6>
