@@ -28,63 +28,76 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/bolsas/5.jpg')}}" alt="First slide" width="100%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/papeleria/14.jpg')}}" alt="First slide" width="100%">
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-3 col-md-3 m-0 p-0 border-right mt-2">
             <h5 class="title font-weight-bold">
-              <strong class="">Bolsas en Cambrella</strong><br>
+              <strong class="">Agendas Argolladas</strong><br>
             </h5>
             <div class="stats mb-2">
               <div class="stars text-danger">
-                <h2 class="main-price text-danger font-weight-bold m-0 p-0">$15.950</h2>
+                <h2 class="main-price text-danger font-weight-bold m-0 p-0">$0.950</h2>
                 <h6 class="text-dark m-0 p-0">Total sin IVA</h6>
               </div>
             <br><br>
             </div>
-            <h6 class="category"><strong>Material: </strong></h6>
-            <h6>Tela cambrel</h6>
-            <h6 class="category"><strong>Bodado: </strong></h6>
-            <h6>Screen</h6>
-            <br>
-              <div class="container border-top">
+             <div class="container border-top">
               <h5 class="font-weight-bold">¿Necesitas otra cantidad o medida?</h5>
               <p class="">Cotiza Aquí <button class="btn btn-sm btn-success"><i class="fab fa-whatsapp"></i> Whatsapp en linea</button></p>
                 <button class="btn btn-outline-dark">¿Tienes Preguntas?</button>
               </div>
           </div>
           <div class="col-lg-4 col-md-4 mt-2  pl-lg-4">
-            <h5 class="title font-weight-bold">Tamaño de la bolsa</h5>
+            <h5 class="title font-weight-bold">Tamaño de la Agenda</h5>
             <div class="stats">
               <div class="stars text-warning">
-                <button class="btn btn-sm btn-danger text-uppercase">6x6 cm</button>
-                <button class="btn btn-sm btn-secondary text-danger text-uppercase">9x6 cm</button>
-                <button class="btn btn-sm btn-secondary text-danger text-uppercase">9x6 cm</button>
+                <button class="btn btn-sm btn-danger text-uppercase">1/2 Carta</button>
+                <button class="btn btn-sm btn-danger text-uppercase">Carta</button>
               </div>
             </div>
             <h5 class="title font-weight-bold mt-4">Selecciona la Cantidad</h5>
             <div class="stats">
               <div class="stars text-warning">
-                <button class="btn btn-sm btn-danger">50 uds</button>
-                <button class="btn btn-sm btn-secondary text-danger">100 uds</button>
-                <button class="btn btn-sm btn-secondary text-danger">200 uds</button>
-              </div>
-              <div class="stars text-warning mt-2">
-                <button class="btn btn-sm btn-secondary text-danger">300 uds</button>
                 <button class="btn btn-sm btn-secondary text-danger">500 uds</button>
+                <button class="btn btn-sm btn-secondary text-danger">2000 uds</button>
                 <button class="btn btn-sm btn-secondary text-danger">1000 uds</button>
               </div>
-            </div>
-            <h5 class="title font-weight-bold mt-2">Tipo de Material</h5>
+              <div class="stars text-warning">
+                <button class="btn btn-sm btn-secondary text-danger">5000 uds</button>
+                <button class="btn btn-sm btn-secondary text-danger">10000 uds</button>
+              </div>
+               <h5 class="title font-weight-bold mt-2">Caratula</h5>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio1" type="radio">
-                <label class="custom-control-label" for="customRadio1">1 Tinta</label>
+                <label class="custom-control-label" for="customRadio1">Plastificado Mate</label>
               </div>
               <div class="custom-control custom-radio mb-3">
                 <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
-                <label class="custom-control-label" for="customRadio2">2 Tintas</label>
+                <label class="custom-control-label" for="customRadio1">Plastificado Brillante</label>
+              </div>     
+               <h5 class="title font-weight-bold mt-2">Hojas Internas</h5>
+              <div class="custom-control custom-radio mb-3">
+                <input name="custom-radio-1" class="custom-control-input" id="customRadio1" type="radio">
+                <label class="custom-control-label" for="customRadio1">Blancas</label>
+              </div>
+              <div class="custom-control custom-radio mb-3">
+                <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
+                <label class="custom-control-label" for="customRadio1">Impresas por el frente (1x0 tinta)</label>
+              </div>
+              <div class="custom-control custom-radio mb-3">
+                <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
+                <label class="custom-control-label" for="customRadio1">Impresas por el frente (4x0 tintas)</label>
+              </div>                  
+              <div class="custom-control custom-radio mb-3">
+                <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
+                <label class="custom-control-label" for="customRadio1">Impresas por el frente y reverso (1x1 tinta)</label>
+              </div>
+              <div class="custom-control custom-radio mb-3">
+                <input name="custom-radio-1" class="custom-control-input" id="customRadio2" checked="" type="radio">
+                <label class="custom-control-label" for="customRadio1">Impresas por el frente y reverso (4x4 tintas)</label>
               </div>
             <div class="row pick-size">
             <h5 class="title font-weight-bold mt-0 ml-2">Elige como crear tu producto</h5><br>
@@ -122,6 +135,10 @@
                 </div>
               </div>
             </div>
+             <div class="container border-top">
+              <h5 class="font-weight-bold">¿Necesitas otra cantidad o medida?</h5>
+              <p class="">Cotiza Aquí <button class="btn btn-sm btn-success"><i class="fab fa-whatsapp"></i> Whatsapp en linea</button></p>
+              </div>
           </div>
         </div>
         </section>
@@ -169,9 +186,29 @@
           <div class="row">
             <div class="col-md-3 mt-5">
               <div class="">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/2.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/2.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
-                  <h6 class="card-title p-0 m-0">Bolsas Papel Bond</h6>
+                  <h6 class="card-title p-0 m-0">Volantes</h6>
+                  <h6 class="card-text p-0 m-0"><strong>Desde $18.950</strong></h6>
+                  <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 mt-5">
+              <div class="">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/3.jpg')}}" alt="Card image cap">
+                <div class="card-body p-0">
+                  <h6 class="card-title p-0 m-0">Plegables</h6>
+                  <h6 class="card-text p-0 m-0"><strong>Desde $55.950</strong></h6>
+                  <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-3 mt-5">
+              <div class="">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/4.jpg')}}" alt="Card image cap">
+                <div class="card-body p-0">
+                  <h6 class="card-title p-0 m-0">Hojas Membretadas</h6>
                   <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
                 </div>
@@ -179,29 +216,9 @@
             </div>
             <div class="col-md-3 mt-5">
               <div class="">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/3.jpg')}}" alt="Card image cap">
+                <img class="card-img-top img-fluid" src="{{asset('assets/img/papeleria/5.jpg')}}" alt="Card image cap">
                 <div class="card-body p-0">
-                  <h6 class="card-title p-0 m-0">Bolsas Papel Propalcote</h6>
-                  <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
-                  <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 mt-5">
-              <div class="">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/4.jpg')}}" alt="Card image cap">
-                <div class="card-body p-0">
-                  <h6 class="card-title p-0 m-0">Bolsas en Earth Pact</h6>
-                  <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
-                  <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-3 mt-5">
-              <div class="">
-                <img class="card-img-top img-fluid" src="{{asset('assets/img/bolsas/6.jpg')}}" alt="Card image cap">
-                <div class="card-body p-0">
-                  <h6 class="card-title p-0 m-0">Sticker Adhesivo Cuadrado</h6>
+                  <h6 class="card-title p-0 m-0">Talonario de Facturas tamaño Media Carta</h6>
                   <h6 class="card-text p-0 m-0"><strong>Desde $0.950</strong></h6>
                   <button class="btn btn-block btn-danger mt-1 text-uppercase">Seleccionar</button>
                 </div>

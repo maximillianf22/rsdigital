@@ -11,18 +11,22 @@
 |
 */
 
+//------------home
 Route::get('/', function () {
     return view('inicio');
 });
 
+//------------producto
 Route::get('/producto', function () {
     return view('producto');
 });
 
+//------------que quieres imprimir
 Route::get('/que-quieres-imprimir', function () {
     return view('imprimir');
 });
 
+//------------bolsas
 Route::get('/bolsas-empaques', function () {
     return view('bolsas');
 });
@@ -60,6 +64,7 @@ Route::get('/imanes', function () {
     return view('bolsas.imanes');
 });
 
+//------------pendones
 Route::get('/pendones', function () {
     return view('pendones');
 });
@@ -88,6 +93,7 @@ Route::get('/microperforado', function () {
     return view('pendones.microperforado');
 });
 
+//------------papeleria
 Route::get('/papeleria', function () {
     return view('papeleria');
 });
@@ -137,6 +143,10 @@ Route::get('/recetarios', function () {
     return view('papeleria.recetarios');
 });
 
+Route::get('/sobres', function () {
+    return view('papeleria.sobres');
+});
+
 Route::get('/volantes-economicos', function () {
     return view('papeleria.volantes-economicos');
 });
@@ -145,6 +155,19 @@ Route::get('/volantes', function () {
     return view('papeleria.volantes');
 });
 
+Route::get('/individuales', function () {
+    return view('papeleria.individuales');
+});
+
+Route::get('/tacos', function () {
+    return view('papeleria.tacos');
+});
+
+Route::get('/angendas', function () {
+    return view('papeleria.agendas');
+});
+
+//------------tarjetas
 Route::get('/tarjetas', function () {
     return view('tarjetas');
 });
