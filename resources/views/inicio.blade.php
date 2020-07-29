@@ -61,19 +61,19 @@
                 <a class="nav-link bg-white text-dark mb-0 hovertext" href="#!" style="line-height: 0.9rem;"><strong>Tarjetas de <br>Presetación</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Bolsas & Empaques</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/bolsas-empaques"><strong>Bolsas & Empaques</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Volantes</strong></a>
               </li>
               <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Pendones</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/pendones"><strong>Pendones</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
                 <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Membretes</strong></a>
               </li>
                <li class="nav-item mx-auto pr-0">
-                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="#!"><strong>Facturas</strong></a>
+                <a class="nav-link bg-white mb-0 mt-1 hovertext" href="/papeleria"><strong>Facturas</strong></a>
               </li>
             </ul>
             </div>

@@ -34,7 +34,7 @@
             </div>
             <ul class="navbar-nav ml-lg-auto border-right">
                 <li class="nav-item">
-                    <a class="btn btn-danger btn-round mt-1 btn-sm" href="#">
+                    <a class="btn btn-danger btn-round mt-1 btn-sm" href="/que-quieres-imprimir">
                         <span>¿Que quieres imprimir?</span>
                         <i class="fa fa-caret-down"></i>
                     </a>
@@ -54,10 +54,6 @@
                     <a class="btn btn-outline-danger btn-round mt-1 btn-sm" href="#" id="navbar-default_dropdown_1" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         <span>Inicia sesión</span>
                     </a>
-                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbar-default_dropdown_1">
-                        <a class="dropdown-item" href="#">Comercio Unico</a>
-                        <a class="dropdown-item" href="#">Multi Comercio </a>
-                    </div>
                 </li>
                 <li class="nav-item mr-3 mt-1">
                     <a href="#">

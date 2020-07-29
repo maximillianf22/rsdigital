@@ -29,6 +29,12 @@
   <script src="https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js"></script>
 
   @yield('style')
+  <style>
+    .card-title {
+        min-height: 7vh;
+        max-height: 7vh;
+  }
+  </style>
 
 </head>
 <body class="index-page">
