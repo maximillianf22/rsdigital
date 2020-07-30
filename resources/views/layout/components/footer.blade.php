@@ -7,8 +7,8 @@
       <div class="col-md-1 col-3 ml-3 mr-3 pl-3 pm-3">
         <ul class="list-unstyled ">
           <li><h6 class="text-warning text-white text-uppercase"><b>Productos</b></h6></li>
-          <li style="line-height: 15px;"> <a href="#" class="text-white">Litografia</a> </li>
-          <li style="line-height: 15px;"> <a href="#" class="text-white">Impresion Digital</a> </li>
+          <li style="line-height: 15px;"> <a href="#" class="text-white">Litografía</a> </li>
+          <li style="line-height: 15px;"> <a href="#" class="text-white">Impresión Digital</a> </li>
           <li style="line-height: 15px;"> <a href="#" class="text-white">Plotter</a> </li>
           <li style="line-height: 15px;"> <a href="#" class="text-white">Souvenir</a> </li>
         </ul>
@@ -18,7 +18,7 @@
           <li><h6 class="text-warning text-white text-uppercase"><b>Empresa</b></h6></li>
           <li style="line-height: 15px;"> <a href="#" class="text-white">Sobre nosotros</a> </li>
           <li style="line-height: 15px;"> <a href="#" class="text-white">Clientes</a> </li>
-          <li style="line-height: 15px;"> <a href="#" class="text-white">Empleto</a> </li>
+          <li style="line-height: 15px;"> <a href="#" class="text-white">Empleo</a> </li>
           <li style="line-height: 15px;"> <a href="#" class="text-white">Colaboradores</a> </li>
         </ul>
       </div>

@@ -172,7 +172,7 @@ Route::get('/tarjetas', function () {
     return view('tarjetas');
 });
 
-Route::get('/economica', function () {
+Route::get('/economicas', function () {
     return view('tarjetas.economicas');
 });
 

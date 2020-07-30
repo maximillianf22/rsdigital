@@ -119,7 +119,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-3 pr-0  mr-0">
-                    <div class="form-group">
+                    <div class="form-group border border-dark">
                       <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="1">
                     </div>
                   </div>
@@ -129,10 +129,6 @@
                 </div>
               </div>
             </div>
-             <div class="container border-top">
-              <h5 class="font-weight-bold">¿Necesitas otra cantidad o medida?</h5>
-              <p class="">Cotiza Aquí <button class="btn btn-sm btn-success"><i class="fab fa-whatsapp"></i> Whatsapp en linea</button></p>
-              </div>
           </div>
         </div>
         </section>

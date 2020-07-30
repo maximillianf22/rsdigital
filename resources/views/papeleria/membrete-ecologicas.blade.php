@@ -114,7 +114,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-3 pr-0  mr-0">
-                    <div class="form-group">
+                    <div class="form-group border border-dark">
                       <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="1">
                     </div>
                   </div>

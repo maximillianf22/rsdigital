@@ -34,6 +34,14 @@
         min-height: 7vh;
         max-height: 7vh;
   }
+  .form-control {
+    color: #020202;
+  }
+  
+  .btn_whatsapp, btn_whatsapp:active {position: fixed;z-index: 999;bottom: 20px;right: 10px;background-color: #25d366;
+      color: #fff;padding: 10px 25px;font-size: 13px;border-radius: 50px;font-weight: bold;}
+  .btn_whatsapp a:hover, btn_whatsapp:active {color:#FFF !important }
+
   </style>
 
 </head>
@@ -51,7 +59,10 @@
       @yield('modals')
 
     </div>
-
+     <!--Boton de Whatsapp Flotante-->
+   <a href="https://api.whatsapp.com/send?phone=5717946011&amp;text=Hola,%20deseo%20realizar%20un%20nuevo%20pedido%20" class="btn_whatsapp" target="_blank" >
+    <i class="fab fa-whatsapp fa-3x mt-1 mb-1" aria-hidden="true"></i>
+   </a>
   </div>
 
    @yield('js')
