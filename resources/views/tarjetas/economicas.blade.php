@@ -28,7 +28,7 @@
               </ol>
               <div class="carousel-inner mx-auto" role="listbox">
                 <div class="carousel-item active">
-                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/tarjetas/2.jpg')}}" alt="First slide" width="100%">
+                  <img class="d-block rounded" style="border-radius: 1rem !important;" src="{{asset('assets/img/tarjetas/1.jpg')}}" alt="First slide" width="100%">
                 </div>
               </div>
             </div>
